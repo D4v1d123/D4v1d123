@@ -29,7 +29,7 @@
                 <img width="80%" src="img/project_1.png" alt="Desafíos de programación">
                 <br>
                 <p>
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">Resolución de problemas de programación</a>
+                    <a href="https://github.com/D4v1d123/Programming-challenges.git">Resolución de problemas de programación</a>
                     utilizando conceptos clave estudiados como la asincronía, recursividad, y los paradigmas funcional, y orientado a objetos.
                 </p>
             </div>
@@ -43,7 +43,7 @@
                 <img width="80%" src="img/project_2.png" alt="Revisión de archivos en hoja de cálculo">
                 <br>
                 <p>
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">Verificación rápida y eficiente de la existencia de resultados médicos dentro la trazabilidad u hoja de cálculo</a>,
+                    <a href="https://bosabe.com/wp-content/uploads/2017/07/coming-soon.jpg">Verificación rápida y eficiente de la existencia de resultados médicos dentro la trazabilidad u hoja de cálculo</a>,
                     resaltando las celdas de los usuarios que tienen su archivo correspondiente en la carpeta. Esto asegura que todos los documentos necesarios estén presentes y correctamente registrados.
                 </p>
             </div> 
@@ -58,14 +58,14 @@
                 <br>
                 <p>
                     Introducción a temas clave en programación, incluyendo 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">programación concurrente</a>, 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">funcional</a> y 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">orientada a objetos</a>. 
+                    <a href="https://github.com/D4v1d123/Concurrent-programing.git">programación concurrente</a>, 
+                    <a href="https://github.com/D4v1d123/Functional-paradigm.git">funcional</a> y 
+                    <a href="https://github.com/D4v1d123/Object-oriented-programming-paradigm.git">orientada a objetos</a>. 
                     Agregado a esto, se proporciona una base sólida en herramientas como 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">MySQL</a>, 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">Python</a>, 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">PHP</a> y 
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">Swift</a>. 
+                    <a href="https://github.com/D4v1d123/SQL-fundamentals.git">MySQL</a>, 
+                    <a href="https://github.com/D4v1d123/Python-programming-fundamentals.git">Python</a>, 
+                    <a href="https://github.com/D4v1d123/PHP-programming-fundamentals.git">PHP</a> y 
+                    <a href="https://github.com/D4v1d123/Linear-data-structure.git">Swift</a>. 
                     Esto facilita el aprendizaje y la comprensión de conceptos fundamentales.
                 </p>
             </div>
@@ -79,7 +79,7 @@
                 <img width="80%" src="img/project_4.png" alt="Subir archivos al historial clínico en internet">
                 <br>
                 <p>
-                    <a href="https://github.com/D4v1d123/Programming-challenges.git" target="_blank">Subida semiautomática de archivos a una plataforma de historia clínica en línea</a>,
+                    <a href="https://github.com/D4v1d123/Upload-files-Salud.SIS.git">Subida semiautomática de archivos a una plataforma de historia clínica en línea</a>,
                     optimizando el proceso al reducir el tiempo necesario para cargar documentos y capturar errores en los archivos de los usuarios. Esta herramienta utiliza técnicas de coincidencia de imágenes, manejo de directorios, extracción y ordenamiento de datos.
                 </p>
             </div>
@@ -92,16 +92,16 @@
 
 <h2><img src="img/contact_me_logo.gif" width="3%" alt="Mensajes"> Conecta Conmigo</h2>
 <div align="center">
-    <a href="https://m.me/davidalejandro.guerrero.96" target="_blank">
+    <a href="https://m.me/davidalejandro.guerrero.96">
         <img width="47rem" src="img/facebook_logo.png" alt="Logo de Facebook">
     </a>
-    <a href="mailto:daviguer890@gmail.com" target="_blank">
+    <a href="mailto:daviguer890@gmail.com">
         <img width="47rem" src="img/mail_logo.png" alt="Logo del correo electrónico">
     </a>
-    <a href="https://www.linkedin.com/in/david-guerrero-developer/" target="_blank" alt="Logo de LinkedIn">
+    <a href="https://www.linkedin.com/in/david-guerrero-developer/" alt="Logo de LinkedIn">
         <img width="47rem" src="img/linkedin_logo.png">
     </a>
-    <a href="https://wa.me/573157920992" target="_blank" alt="Logo de Whatsapp">
+    <a href="https://wa.me/573157920992" alt="Logo de Whatsapp">
         <img width="47rem" src="img/whatsapp_logo.png">
     </a>
 </div>
