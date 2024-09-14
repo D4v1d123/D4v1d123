@@ -1,4 +1,4 @@
-<div align="center"></div>
+<div align="center">
     <h1>Hola, soy David Guerrero <img src="img/greeting.gif" width="4%" alt="Saludo"></h1>
 </div>
 <img src="img/banner.png" width="100%" alt="Banner">
