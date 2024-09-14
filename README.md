@@ -71,7 +71,6 @@
             </div>
             <br>
             <br>
-            <br>
         </td>       
         <td width="50%">
             <br>
