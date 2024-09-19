@@ -43,7 +43,7 @@
                 <img width="80%" src="img/project_2.png" alt="Revisión de archivos en hoja de cálculo">
                 <br>
                 <p>
-                    <a href="https://bosabe.com/wp-content/uploads/2017/07/coming-soon.jpg">Verificación rápida y eficiente de la existencia de resultados médicos dentro la trazabilidad u hoja de cálculo</a>,
+                    <a href="https://github.com/D4v1d123/Check-files-in-report.git">Verificación rápida y eficiente de la existencia de resultados médicos dentro la trazabilidad u hoja de cálculo</a>,
                     resaltando las celdas de los usuarios que tienen su archivo correspondiente en la carpeta. Esto asegura que todos los documentos necesarios estén presentes y correctamente registrados.
                 </p>
             </div> 
