@@ -7,14 +7,14 @@
 
 <h2><img src="img/developer_logo.gif" width="3%" alt="Desarrollador"> Sobre Mi</h2>
     <div>
-    Ingeniero en Sistemas apasionado por el desarrollo de software backend, con un fuerte enfoque en la resolución de problemas y la implementación de soluciones eficientes. Me caracterizo por aplicar buenas prácticas en cada proyecto y poseo una sólida capacidad de liderazgo. Trabajo de manera autónoma, con un enfoque constante en la mejora continua.
+    Ingeniero en Sistemas apasionado por el desarrollo de software, con un fuerte enfoque en la resolución de problemas y la implementación de soluciones eficientes. Me caracterizo por aplicar buenas prácticas en cada proyecto y poseo una sólida capacidad de liderazgo. Trabajo de manera autónoma, con un enfoque constante en la mejora continua.
     </div>
 <br>
 <br>
 
 <h2><img src="img/programming_logo.gif" width="3%" alt="Computador"> Stack Tecnológico</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,md,py,git,html,css,js" alt="Logos de las tecnologías de programación"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,django,git,html,css,js" alt="Logos de las tecnologías de programación"/>
 </div>
 <br>
 <br>
