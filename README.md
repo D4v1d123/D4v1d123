@@ -38,13 +38,12 @@
         </td> 
         <td width="50%">
             <br>
-            <h3 align="center">Revisión de Archivos en Hoja de Cálculo</h3>
+            <h3 align="center">TickTick</h3>
             <div align="center">                                       
                 <img width="80%" src="img/project_2.png" alt="Revisión de archivos en hoja de cálculo">
                 <br>
                 <p>
-                    <a href="https://github.com/D4v1d123/Check-files-in-report.git">Verificación rápida y eficiente de la existencia de resultados médicos dentro la trazabilidad u hoja de cálculo</a>,
-                    resaltando las celdas de los usuarios que tienen su archivo correspondiente en la carpeta. Esto asegura que todos los documentos necesarios estén presentes y correctamente registrados.
+                    <a href="https://github.com/D4v1d123/TickTick.git">Plataforma para la gestión de tareas basada en TickTick</a> que simplifica la organización tanto individual como en equipo. Además, permite crear, priorizar, asignar, y realizar seguimiento de tareas, facilitando la colaboración en proyectos. 
                 </p>
             </div> 
         </td> 
