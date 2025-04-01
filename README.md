@@ -14,7 +14,7 @@
 
 <h2><img src="img/programming_logo.gif" width="3%" alt="Computador"> Stack Tecnológico</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,django,git,html,css,js" alt="Logos de las tecnologías de programación"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,django,kubernetes,docker,git,html,css,js" alt="Logos de las tecnologías de programación"/>
 </div>
 <br>
 <br>
