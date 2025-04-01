@@ -3,6 +3,9 @@
 </div>
 <img src="img/banner.png" width="100%" alt="Banner">
 <br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,django,kubernetes,docker,git,html,css,js&theme=light" alt="Logos de las tecnologías de programación"/>
+</div>
 <br>
 
 <h2><img src="img/developer_logo.gif" width="3%" alt="Desarrollador"> Sobre Mi</h2>
@@ -10,15 +13,6 @@
     Ingeniero en Sistemas apasionado por el desarrollo de software, con un fuerte enfoque en la resolución de problemas y la implementación de soluciones eficientes. Me caracterizo por aplicar buenas prácticas en cada proyecto y poseo una sólida capacidad de liderazgo. Trabajo de manera autónoma, con un enfoque constante en la mejora continua.
     </div>
 <br>
-<br>
-
-<h2><img src="img/programming_logo.gif" width="3%" alt="Computador"> Stack Tecnológico</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,django,kubernetes,docker,git,html,css,js" alt="Logos de las tecnologías de programación"/>
-</div>
-<br>
-<br>
-
 <h2><img src="img/projects_logo.gif" width="2.7%" alt="Logo de código"> Proyectos Destacados</h2>
 <table>
     <tr>
@@ -85,9 +79,8 @@
             <br>
         </td> 
     </tr> 
-</table>                                                                                 
-<br>
-<br>
+</table>  
+<br>                                     
 
 <h2><img src="img/contact_me_logo.gif" width="3%" alt="Mensajes"> Conecta Conmigo</h2>
 <div align="center">
